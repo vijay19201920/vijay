@@ -7,7 +7,7 @@
  2) $ git status :- This will give the status of the folder if any file is added or commited ot need to be commited.
  3) $ git add. :- This will add all the files on that particular folder.
  4) $ git add <file name in ""> :- This will add only the file named.
- 5) $ git commit -m <file_name> :- This is used to commit the file aftyer adding command inorder to push the file.
+ 5) $ git commit -m <commit message in inverted comma> :- This is used to commit the file aftyer adding command inorder to push the file.
  6) $ git push origin :- This will add the file to push on the origin branch or master branch.
  7) $ git checkout -b <branch> :-  In Git 1.7.0 and later, you can checkout a new branch or create a new branch
  8) $ git push -u origin <branch> :-- Edit files, add and commit. Then push with the -u (short for --set-upstream) option or push a new branch to repository.
