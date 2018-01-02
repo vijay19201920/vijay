@@ -13,7 +13,7 @@
  8) $ git push -u origin <branch> :-- Edit files, add and commit. Then push with the -u (short for --set-upstream) option or push a new branch to repository.
  9) $ git checkout <branch name> :- This command is used to switch the branches
  10) All the git branches will be under origin.
- 
+ 11) $ git commit -am "add comment"   this will add and commit both
  
  
  
