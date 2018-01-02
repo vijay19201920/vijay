@@ -1,1 +1,11 @@
  Git has three main states that your files can reside in: committed, modified, and staged. Committed means that the data is safely stored in your local database. Modified means that you have changed the file but have not committed it to your database yet. Staged means that you have marked a modified file in its current version to go into your next commit snapshot.
+ 
+ 1) $ git clone <url from repository> eg - $ git clone https://github.com/vijay19201920/vijay.git;
+ 
+ This is used to get the checkout on the folder
+ 
+ 2) $ git status :- This will give the status of the folder if any file is added or commited ot need to be commited.
+ 3) $ git add. :- This will add all the files on that particular folder.
+ 4) $ git add file name :- This will add only the file named.
+ 5) $ git commit :- This is used to commit the file aftyer adding command inorder to push the file.
+ 6) $ git push origin :- This will add the file to push on the origin branch or master branch.
