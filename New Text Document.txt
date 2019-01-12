@@ -15,6 +15,21 @@
  10) All the git branches will be under origin.
  11) $ git checkout -- "New Text Document.txt" :- This will revert to previous content of the file.
  12) $ git commit -am "add comment"   this will add and commit both
+ 13) Adding a remote -> To add a new remote, use the git remote add command on the terminal, in the directory your repository is stored at.
+
+				   The git remote add command takes two arguments:
+
+					A remote name, for example, origin
+					A remote URL, for example, https://github.com/user/repo.git
+14) Git rebase -> The git rebase command allows you to easily change a series of commits, modifying the history of your repository. You can reorder, edit, or squash commits together.
+
+			Typically, you would use git rebase to:
+			Edit previous commit messages
+			Combine multiple commits into one
+			Delete or revert commits that are no longer necessary
+					
+					
+
  
  
  
