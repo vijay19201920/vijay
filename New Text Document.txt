@@ -30,6 +30,17 @@
 			Delete or revert commits that are no longer necessary
 			
 			this is check
+			
+			to create a new branch at local 
+			git branch <branch name>
+			git branch alpha
+			git branch --list
+			
+			Git checkout <branch name> Switching the branch
+			git checkout -b <branch name> here b is used for creating new branch it has two command merged ie to create a branch and switching the branch.
+ 			
+			
+			
 					
 					
 
