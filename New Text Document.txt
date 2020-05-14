@@ -21,12 +21,15 @@
 
 					A remote name, for example, origin
 					A remote URL, for example, https://github.com/user/repo.git
+					git remote add origin Https://URL // if origin not present issue found. 
 14) Git rebase -> The git rebase command allows you to easily change a series of commits, modifying the history of your repository. You can reorder, edit, or squash commits together.
 
 			Typically, you would use git rebase to:
 			Edit previous commit messages
 			Combine multiple commits into one
 			Delete or revert commits that are no longer necessary
+			
+			this is check
 					
 					
 
