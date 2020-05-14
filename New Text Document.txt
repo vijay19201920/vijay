@@ -31,12 +31,12 @@
 			
 			this is check
 			
-			to create a new branch at local 
+15) to create a new branch at local 
 			git branch <branch name>
-			git branch alpha
-			git branch --list
+			Example := git branch alpha
+			git branch --list : -- it is used for the local listing of the branch
 			
-			Git checkout <branch name> Switching the branch
+16) Git checkout <branch name> Switching the branch
 			git checkout -b <branch name> here b is used for creating new branch it has two command merged ie to create a branch and switching the branch.
  			
 			
