@@ -38,10 +38,22 @@
 			
 			Git checkout <branch name> Switching the branch
 			git checkout -b <branch name> here b is used for creating new branch it has two command merged ie to create a branch and switching the branch.
- 			
 			
-			
-					
+14 ) DIfference between git pull and git clone
+
+
+ 			git init
+			git remote add origin git://github.com/cmcculloh/repo.git
+			git fetch --all
+			git pull origin master
+	and
+
+			git clone git://github.com/cmcculloh/repo.git
+	I mean, obviously one is shorter, but other than that are they basically doing the same thing
+	
+They're basically the same, except clone will setup additional remote tracking branches, not just master.
+
+Clones a repository into a newly created directory, creates remote-tracking branches for each branch in the cloned repository (visible using git branch -r), and creates and checks out an initial branch that is forked from the cloned repository's currently active branch.	
 					
 
  
